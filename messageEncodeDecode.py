@@ -72,7 +72,7 @@ def Reset():
 
 # Header & Footer
 Label(root, text="ENCODE x DECODE", font="arial 20 bold").pack()
-Label(root, text="~ Welcome to Cyphertext ~",
+Label(root, text="~ Welcome to Ciphertext ~",
       font="arial 20 bold").pack(side=BOTTOM)
 
 # MESSAGE
